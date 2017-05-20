@@ -9,4 +9,4 @@ To compile:
 `$ make`
 
 To execute:
-`./WordCount ./Test ./Output`
+`$ ./WordCount ./Test ./Output`
