@@ -1,0 +1,2 @@
+make
+./WordCount ./Test/ ./Output/
